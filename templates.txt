@@ -1,6 +1,0 @@
-<div class="song">
-      <button class="accordion">Tähän nimi</button>
-      <div class="panel">
-        <p>Tähän sanat</p>
-      </div>
-    </div>
